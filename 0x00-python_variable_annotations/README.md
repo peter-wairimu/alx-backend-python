@@ -1,0 +1,3 @@
+### Python - Variable Annotations
+
+#### Variable annotations are a new feature in Python 3.6 that allow you to annotate variables with type hints. This is different from function annotations, which are annotations on function parameters and return values. Variable annotations are not stored in the `__annotations__` attribute of the function. Instead, they are stored in the `__annotations__` attribute of the local namespace of the function.
